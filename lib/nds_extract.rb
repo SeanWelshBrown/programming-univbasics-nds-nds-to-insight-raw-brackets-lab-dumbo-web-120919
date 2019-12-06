@@ -24,6 +24,7 @@ def directors_totals(nds)
     
     result[name] = movie_totals
     row_index += 1
+    
   end
   
  pp result
